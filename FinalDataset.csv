@@ -1,0 +1,300 @@
+"ID","Requirements","project category","Requirement Category","Magnitude of Risk","Impact","Priority"
+1,"The system shall display all the products that can be configured.","Transaction Processing System","Functional","Negligible","high",95.715385
+2,"The system shall allow user to select the product to configure.","Transaction Processing System","Functional","Very Low","catastrophic",35.9
+3,"The system shall display all the available components of the product to configure","Transaction Processing System","Functional","Low","high",35.692308
+4,"The system shall enable user to add one or more component to the configuration.","Transaction Processing System","Functional","Medium","moderate",44.1
+5,"The system shall notify the user about any conflict in the current configuration.","Transaction Processing System","Functional","High","Low",85.776923
+6,"The system shall allow user to update the configuration to resolve conflict in the current configuration.","Transaction Processing System","Functional","Very High","insignificant",56.453846
+7,"The system shall allow user to confirm the completion of current configuration","Transaction Processing System","Functional","Extreme","moderate",41.530769
+8,"The system shall display detailed information of the selected products.","Transaction Processing System","Functional","High","high",61.261538
+9,"The system shall provide browsing options to see product details.","Transaction Processing System","Functional","Medium","moderate",28.284615
+10,"The system shall display detailed product categorization to the user.","Transaction Processing System","Functional","Negligible","Low",18.223077
+11,"The system shall enable user to enter the search text on the screen.","Transaction Processing System","Functional","Very Low","moderate",17.692308
+12,"The system shall enable user to select multiple options on the screen to search.","Transaction Processing System","Functional","High","insignificant",15.707692
+13,"The system shall display all the matching products based on the search","Transaction Processing System","Functional","Very Low","moderate",31.538462
+14,"The system shall display only 10 matching result on the current screen.","Transaction Processing System","Functional","Negligible","Low",25.438462
+15,"The system shall enable user to navigate between the search results.","Transaction Processing System","Functional","Very Low","insignificant",17.707692
+16,"The system shall notify the user when no matching product is found on the search.","Transaction Processing System","Functional","Very High","high",68.553846
+17,"The system shall allow user to create profile and set his credential","Transaction Processing System","Functional","Medium","Low",42.376923
+18,"The system shall authenticate user credentials to view the profile","Transaction Processing System","Functional","Low","Low",25.630769
+19,"The system shall allow user to update the profile information","Transaction Processing System","Functional","Medium","moderate",34.4
+20,"The system shall enable user to select multiple options on the screen to search.","Transaction Processing System","Functional","Medium","high",41.184615
+21,"The system shall display all the matching products based on the search","Transaction Processing System","Functional","Medium","Low",26.476923
+22,"The system shall display only 10 matching result on the current screen.","Transaction Processing System","Functional","Very High","high",35.115385
+23,"The system shall enable user to navigate between the search results.","Transaction Processing System","Functional","Medium","catastrophic",65.907692
+24,"The system shall notify the user when no matching product is found on the search.","Transaction Processing System","Functional","Very High","high",22.107692
+25,"The system shall allow user to create profile and set his credential.","Transaction Processing System","Functional","Low","Low",25.469231
+26,"The system shall authenticate user credentials to view the profile.","Transaction Processing System","Functional","Medium","high",23.746154
+27,"The system shall allow user to update the profile information.","Transaction Processing System","Functional","Very High","moderate",36.607692
+28,"The system shall display both the active and completed order history in the customer profile.","Transaction Processing System","Functional","High","Low",29.707692
+29,"The system shall allow user to select the order from the order history.","Transaction Processing System","Functional","Very Low","Low",78.376923
+30,"The system shall display the detailed information about the selected order.","Transaction Processing System","Functional","Medium","Low",39.592308
+31,"The system shall display the most frequently searched items by the user in the profile.","Transaction Processing System","Functional","Medium","moderate",49.746154
+32,"The system shall allow user to register for newsletters and surveys in the profile.","Transaction Processing System","Functional","Low","Low",65.376923
+33,"The system shall provide online help , FAQ’s customer support  and sitemap options for customer support.","Transaction Processing System","Functional","Medium","Low",89.230769
+34,"The system shall allow user to select the support type he wants.","Transaction Processing System","Functional","Medium","moderate",89.784615
+35,"The system shall allow user to enter the customer and product information for the support.","Transaction Processing System","Functional","Low","high",69.784615
+36,"The system shall display the customer support contact numbers on the screen.","Transaction Processing System","Functional","Medium","Low",41.130769
+37,"The system shall allow user to enter the contact number for support personnel to call.","Transaction Processing System","Functional","Medium","moderate",64.915385
+38,"The system shall display the online help upon request.","Transaction Processing System","Functional","Low","moderate",82.384615
+39,"The system shall display the FAQs upon request.","Transaction Processing System","Functional","High","moderate",39.130769
+40,"The system shall maintain customer email information as a required part of customer profile.","Transaction Processing System","Functional","Medium","moderate",73.523077
+41,"The system shall send an order confirmation to the user through email.","Transaction Processing System","Functional","High","moderate",92.207692
+42,"The system shall display detailed invoice for current order once it is confirmed.","Transaction Processing System","Functional","Medium","moderate",82.753846
+43,"The system shall optionally allow user to print the invoice.","Transaction Processing System","Functional","Low","Low",66.876923
+44,"The system shall provide shopping cart during online purchase.","Transaction Processing System","Functional","Medium","Low",81.130769
+45,"The system shall allow user to add/remove products in the shopping cart.","Transaction Processing System","Functional","Medium","Low",90.361538
+46,"The system shall display different shipping options provided by shipping department.","Transaction Processing System","Functional","Medium","moderate",73.630769
+47,"The system shall enable user to select the shipping method during payment process.","Transaction Processing System","Functional","Medium","high",51.438462
+48,"The system shall display the shipping charges.","Transaction Processing System","Functional","Medium","moderate",72.861538
+49,"The system shall display tentative duration for shipping.","Transaction Processing System","Functional","Very High","high",90.776923
+50,"The system shall allow user to enter the order information for tracking.","Transaction Processing System","Functional","Medium","Low",65.023077
+51,"The system shall display the current tracking information about the order.","Transaction Processing System","Functional","Very Low","moderate",53.138462
+52,"The system shall calculate tax for the order","Transaction Processing System","Functional","Very High","high",42.407692
+53,"The system shall display tax information for the order","Transaction Processing System","Functional","Medium","moderate",53.638462
+54,"The system shall display available payment methods for payment.","Transaction Processing System","Functional","High","high",65.307692
+55,"The system shall allow user to select the payment method for order","Transaction Processing System","Functional","Medium","moderate",72.776923
+56,"The system shall display the orders that are eligible to change.","Transaction Processing System","Functional","Low","Low",35.630769
+57,"The system shall allow user to select the order to be changed.","Transaction Processing System","Functional","Medium","moderate",62.092308
+58,"The system shall allow user to cancel the order","Transaction Processing System","Functional","Low","Low",28.453846
+59,"The system shall allow user to change shipping and payment method.","Transaction Processing System","Functional","Medium","high",73.746154
+60,"The system shall notify the user about any changes made to the order.","Transaction Processing System","Functional","High","high",44.638462
+61,"The system shall display the reviews ratings of each product  when it is selected.","Transaction Processing System","Functional","Medium","moderate",41.323077
+62,"The system shall enable the user to enter their reviews and ratings.","Transaction Processing System","Functional","Low","Low",29.438462
+63,"The system shall display all the available financing options.","Transaction Processing System","Functional","Very High","high",66.976923
+64,"The system shall allow user to select the financing option.","Transaction Processing System","Functional","High","moderate",45.8
+65,"The system shall notify the use about the financing request.","Transaction Processing System","Functional","Low","moderate",46.646154
+66,"The system shall allow user to view detailed sitemap.","Transaction Processing System","Functional","High","Low",60.369231
+67,"The system shall display all the available promotions to the user.","Transaction Processing System","Functional","High","moderate",52.384615
+68,"The system shall allow user to select available promotion.","Transaction Processing System","Functional","Medium","high",53.576923
+69,"The system shall allow user to confirm the purchase.","Transaction Processing System","Functional","High","moderate",61.276923
+70,"The system shall enable user to enter the payment information.","Transaction Processing System","Functional","Low","moderate",42.761538
+71,"The system shall provide a uniform look and feel between all the web pages.","Transaction Processing System","Usability","Medium","high",57.353846
+72,"The system shall provide a digital image for each product in the product catalog.","Transaction Processing System","Usability","Medium","moderate",55.846154
+73,"The system shall provide use of icons and toolbars.","Transaction Processing System","Usability","Low","moderate",34.692308
+74,"The system shall provide handicap access.","Transaction Processing System","Usability","Low","moderate",42.615385
+75,"The system shall provide multi language support.","Transaction Processing System","Usability","Low","moderate",25.723077
+76,"The system shall provide storage of all databases on redundant computers with automatic switchover.","Transaction Processing System","Reliability & Availability","Very High","moderate",67.461538
+77,"The system shall provide for replication of databases to off-site storage locations.","Transaction Processing System","Reliability & Availability","Low","Low",43.884615
+78,"The system shall provide RAID V Disk Stripping on all database storage disks.","Transaction Processing System","Reliability & Availability","Medium","high",36.5
+79,"The system shall provide a contractual agreement with an internet service provider for T3 access with 99.9999\% availability.","Transaction Processing System","Reliability & Availability","Medium","catastrophic",68.069231
+80,"The system shall provide a contractual agreement with an internet service provider who can provide 99.999\% availability through their network facilities onto the internet.","Transaction Processing System","Reliability & Availability","Low","high",34.215385
+81,"The product shall be based on web and has to be run from a web server.","Transaction Processing System","Performance","Negligible","moderate",13.569231
+82,"The product shall take initial load time depending on internet connection strength which also depends on the media from which the product is run","Transaction Processing System","Performance","Negligible","moderate",20.392308
+83,"The 0.6 shall depend upon hardware components of the client/customer.","Transaction Processing System","Performance","Very Low","moderate",22.369231
+84,"The system shall use secure sockets in all transactions that include any confidential customer information.","Transaction Processing System","Security","Very Low","Low",28.376923
+85,"The system shall automatically log out all customers after a period of inactivity.","Transaction Processing System","Security","Low","moderate",35.569231
+86,"The system shall confirm all transactions with the customers web browser.","Transaction Processing System","Security","Low","insignificant",40.684615
+87,"The system shall not leave any cookies on the customers computer containing the users password.","Transaction Processing System","Security","Medium","high",52.423077
+88,"The system shall not leave any cookies on the customers computer containing any of the users confidential information.","Transaction Processing System","Security","Medium","Low",48.576923
+89,"The customers web browser shall never display a customers password.  It shall always be echoed with special characters representing typed characters.","Transaction Processing System","Security","Medium","insignificant",59.115385
+90,"The customers web browser shall never display a customers credit card number after retrieving from the database.  It shall always be shown with just the last 4 digits of the credit card number.","Transaction Processing System","Security","Medium","high",49.369231
+91,"The systems back-end servers shall never display a customers password.  The customers password may be reset but never shown","Transaction Processing System","Security","Low","high",36.153846
+92,"The systems back-end servers shall only be accessible to authenticated administrators.","Transaction Processing System","Security","Medium","Low",44.769231
+93,"The systems back-end databases shall be encrypted.","Transaction Processing System","Security","Low","insignificant",34.415385
+94,"The source code developed for this system shall be maintained in configuration management tool.","Transaction Processing System","Supportability","Medium","high",53.476923
+95,"The system shall be built using a standard web page development tool that conforms to either IBMs CUA 0.75 or Microsofts GUI 0.75","Transaction Processing System","Constraints","Low","moderate",27.838462
+96,"There are no memory requirements ","Transaction Processing System","Constraints","Low","moderate",54.653846
+97,"The computers must be equipped with web browsers such as Internet explorer.","Transaction Processing System","Constraints","Low","high",32.515385
+98,"The product must be stored in such a way that allows the client easy access to it","Transaction Processing System","Constraints","High","insignificant",57.269231
+99,"Response time for loading the product should take no longer than five minutes","Transaction Processing System","Constraints","Low","insignificant",42.730769
+100,"A general knowledge of basic computer skills is required to use the product ","Transaction Processing System","Constraints","Medium","high",33.292308
+101,"There are many types of 0.25 as such supported by the Transaction Processing System software system namely  User 0.25  Software 0.25 and Hardware 0.25","Transaction Processing System","Interfaces","Medium","moderate",53.030769
+102,"The protocol used shall be HTTP.","Transaction Processing System","Interfaces","Low","insignificant",31.176923
+103,"The Port number used will be 80.","Transaction Processing System","Interfaces","Very High","high",66.453846
+104,"The user 0.25 for the software shall be compatible to any browser such as Internet Explorer  Mozilla or Netscape Navigator by which user can access to the system.","Transaction Processing System","Interfaces","Medium","moderate",48.476923
+105,"The user 0.25 shall be implemented using any tool or software package like Java Applet  EJB etc.","Transaction Processing System","Interfaces","High","Low",59.169231
+106,"Since the application must run over the internet  MS Front Page  all the hardware shall require to connect internet will be hardware 0.25 for the system. As for e.g. Modem  WAN  LAN  Ethernet Cross-Cable.","Transaction Processing System","Interfaces","High","moderate",62.653846
+107," The Transaction Processing System system shall communicate with the Configurator to identify all the available components to configure the product.","Transaction Processing System","Interfaces","Very Low","Low",24.253846
+108,"The Transaction Processing System shall communicate with the content manager to get the product specifications  offerings and promotions.","Transaction Processing System","Interfaces","Very Low","Low",31.176923
+109,"The Transaction Processing System system shall communicate with billPay system to identify available payment methods  validate the payments and process payment.","Transaction Processing System","Interfaces","Very Low","insignificant",38.692308
+110,"The Transaction Processing System system shall communicate to credit management system for handling financing options","Transaction Processing System","Interfaces","Low","moderate",43.623077
+111,"The Transaction Processing System system shall communicate with CRM system to provide support.","Transaction Processing System","Interfaces","Low","Low",45.861538
+112,"The Transaction Processing System system shall communicate with Sales system for order management.","Transaction Processing System","Interfaces","Low","high",30.530769
+113,"The Transaction Processing System system shall communicate with shipping system for tracking orders and updating of shipping methods.","Transaction Processing System","Interfaces","Low","moderate",42.915385
+114,"The Transaction Processing System system shall communicate with external Tax system to calculate tax","Transaction Processing System","Interfaces","High","Low",52.246154
+115,"The Transaction Processing System system shall communicate with export regulation system to validate export regulations","Transaction Processing System","Interfaces","Medium","moderate",41.492308
+116,"The system shall be verisign like software which shall allow the users to complete secured transaction. This usually shall be the third party software system which is widely used for internet transaction.","Transaction Processing System","Interfaces","Medium","insignificant",39.415385
+117,"Transaction Processing System should display the disclaimers copyright word mark  trademark and product warranties of the Marvel electronics and home entertainment","Transaction Processing System","Standards","High","high",48
+118,"It shall be as per the industry standard.","Transaction Processing System","Standards","Low","moderate",33.076923
+119,"The patient’s information such as date of birth, address and telephone number should be entered into computer system","Management Information System","Functional","Medium","Low",43.384615
+120,"If a patient checks out  the administrative staff shall delete his Personal Health Number from the system and the just evacuated bed is included in available-beds list","Management Information System","Functional","Medium","high",38.2
+121,"The system generates reports List of detailed information regarding the patient who ha admitted in the hospital","Management Information System","Functional","Medium","Low",40.961538
+122,"The system is also designed to be user-friendly","Management Information System","Functional","Low","moderate",36.253846
+123,"It uses a Graphical User 0.25 (GUI)","Management Information System","Functional","Low","Low",45.630769
+124,"Staff is responsible for patients check-in or notification of appropriate people","Management Information System","Functional","Medium","moderate",35.830769
+125,"Administrators are responsible for all of the scheduling and updating day/night employee shifts","Management Information System","Functional","Low","moderate",25.776923
+126,"The system must be delivered by January 1st 2011","Management Information System","Constraints","Medium","high",44.869231
+127,"The existing Telecommunication infrastructure is based on IEEE100802.3 0.75 and the system must conform to this standard using category 5 cables for networking ","Management Information System","Constraints","Medium","insignificant",58.153846
+128,"The system must be user-friendly ","Management Information System","Constraints","High","moderate",48
+129,"It is assumed that one hundred IBM compatible computers will be available before the system is installed and tested","Management Information System","Constraints","Low","catastrophic",26.430769
+130,"It is assumed that the Hospital will have enough trained staff to take care of the system","Management Information System","Constraints","Medium","Low",59.138462
+131,"The HPIMS shall generate reports on patients about the following information: patient’s PHN, patient’s name, ward name, bed number and the doctor’s name which was assigned","Management Information System","Functional","Very Low","high",28.176923
+132,"The HPIMS shall generate reports on bed availability about the following information: ward name, bed number, occupied/unoccupied","Management Information System","Functional","Very Low","high",38.946154
+133,"Each patient shall have the following mandatory information: first name, last name, phone number, personal health number, address, postal code, city, country, patient identification number","Management Information System","Functional","Very Low","moderate",62.615385
+134,"The HPIMS shall allow the user to update any of the patients information as described in SRS","Management Information System","Functional","Medium","catastrophic",57.976923
+135,"The system shall use the MySQL Database  which is open source and free","Management Information System","Constraints","High","moderate",80.307692
+136,"The Development environment shall be Windows ","Management Information System","Constraints","High","moderate",86.461538
+137,"The system shall be a Web-based application","Management Information System","Constraints","High","moderate",63.330769
+138,"The system requires the patient to identify himself /herself using PHN","Management Information System","Security","Medium","moderate",78.076923
+139,"Any user who uses the system shall have a Logon ID and Password","Management Information System","Security","High","high",90.323077
+140,"Any modification (insert, delete, update) for the Database shall be synchronized and done only by the administrator in the ward","Management Information System","Security","Low","moderate",53.023077
+141,"Front Desk staff shall be able to view all information in HPIMS  add new patients to HPIMS but shall not be able to modify any information in it","Management Information System","Security","Medium","Low",42.207692
+142,"Administrators shall be able to view and modify all information in HPIMS","Management Information System","Security","Medium","catastrophic",60.353846
+143,"The system shall give responses in 1 second after checking the patients information","Management Information System","Performance","High","catastrophic",52.930769
+144,"The System must support 1000 people at a time","Management Information System","Performance","Medium","moderate",30.246154
+145,"The user-0.25 screen shall respond within 5 seconds","Management Information System","Performance","High","insignificant",36.169231
+146,"The systems must conform to the Microsoft Accessibility guidelines","Management Information System","Performance","Low","Low",77.630769
+147,"The system shall provide the capability to back-up the Data","Management Information System","Performance","High","moderate",84.976923
+148,"The system shall keep a log of all the errors","Management Information System","Performance","Very Low","high",21.715385
+149,"The system shall be available all the time","Management Information System","Performance","High","high",38.230769
+150,"Students are directed to a Main page that has links to the other systems. (Course Registration Course time-table  Student Accounts and Records)’","Management Information System","Functional","Medium","catastrophic",27.684615
+151,"The Course Registration page will provide course information and allow the user to register for course as well as view his time-table","Management Information System","Functional","Medium","Low",66.961538
+152,"The Course time-Table page will provide general course information without any need of registration","Management Information System","Functional","Medium","moderate",42.792308
+153,"The Student Accounts page will display a students personal and tuition (monetary) information. It will also contain access to their Netlink account","Management Information System","Functional","Low","moderate",58.269231
+154,"The Records page will display information regarding the students academic progress at UVic and allow interaction with the Records Department at UVic","Management Information System","Functional","Very Low","Low",36.769231
+155,"The Employee is directed to a page that allows them to process Student Record related requests","Management Information System","Functional","Low","moderate",31.092308
+156,"We assume that everyone that uses the system has access to the internet at speeds of 56k or above","Management Information System","Constraints","Very Low","Low",23.7
+157,"The system is depended upon by many users therefore it should be able to deal with thousands of users logging onto the system at any one time","Management Information System","Constraints","Medium","moderate",65.323077
+158,"The system must allow students to request official transcripts from WebView.  All requests will be sent and managed by the university records database","Management Information System","Functional","Medium","Low",43.938462
+159,"The system conatins the 0.9ities of WebView, WebReg, WebTT and PinChg, whole System will be consolidated into one central system while maintaining the 0.9ity of each system","Management Information System","Functional","High","moderate",52.9
+160,"System is specifically intended for Records Employee. ","Management Information System","Functional","Low","high",36.307692
+161,"It will have a separate log in page where Records Employees can log in with their Netlink id and password. ","Management Information System","Functional","Very Low","moderate",66.384615
+162,"This connects them with the transcript database. From there  they will be able to fulfil transcript requests","Management Information System","Functional","Medium","high",32.9
+163,"The system will display account outstanding balances. ","Management Information System","Functional","Low","moderate",25.738462
+164,"An account balance will be placed on the 0.25 indicating the amount owned until payment is fulfilled. ","Management Information System","Functional","Low","moderate",51.176923
+165,"There will also be another function within the system that will provide a detailed breakdown of all fees charged by the University","Management Information System","Functional","Medium","Low",40.361538
+166,"The system checks if the entered student number and password are valid","Management Information System","Usability","Very High","high",77.438462
+167,"The system authorizes the student to access their record information if they entered valid student number and password","Management Information System","Usability","Medium","moderate",62
+168,"System returns the user to the log in page if the student number or password is invalid","Management Information System","Usability","High","moderate",87.5
+169,"System provides user with options to access different records and do different 0.9ities with the system if the student number and password are correct","Management Information System","Usability","Very Low","Low",31.869231
+170,"The system will have 0.9ity of producing a more professionally looking unofficial transcript that can be obtained and used when applying for jobs (mostly for coop students)","Management Information System","Usability","Low","moderate",21.053846
+171,"The new system is a combination of old systems namely, WebReg, WebView, WebTT and PinChg which required separate log in accounts. . ","Management Information System","Usability","Medium","moderate",62.653846
+172,"The new system should function such that when (student) signs into it  it provides them with all the information combined for the old systems without having to re-log in.","Management Information System","Usability","Low","Low",56.192308
+173,"The new system will also allow records employees to log into the system  view and process transcript requests","Management Information System","Usability","Medium","moderate",50.207692
+174,"The new system will provide a report that clearly shows what courses the student have completed and what courses they still need to take. ","Management Information System","Usability","Low","high",41.938462
+175,"This 0.9ity will be important in saving students time from looking at the whole timetable of their course","Management Information System","Usability","Low","Low",41.176923
+176,"The new system will be accessible in any computer that is connected to the internet","Management Information System","Usability","Medium","high",28.976923
+177,"The new system will have an 0.25 that is very easy to use and does not require training to use.","Management Information System","Usability","High","catastrophic",81.484615
+178," It should combine some of the features of the old system so that users (students) who are familiar with the old system will not have trouble adjusting to the new system","Management Information System","Usability","Medium","high",61.6
+179,"The new system should also have an 0.25 that can be useful to records employees for them to easily process transcript requests. ","Management Information System","Usability","Medium","moderate",49.438462
+180,"Some of the old records system features will be included in the new system to help records employees to adjust easily to the new system","Management Information System","Usability","Low","moderate",61.661538
+181,"The new system should have a tool to help students produce their timetable instead of them spending much time looking at the timetable and manually planning it","Management Information System","Usability","High","moderate",76.476923
+182,"This 0.9ity does not replace the old system of planning the timetable manually but it is an additional feature that can be used","Management Information System","Usability","High","high",83.692308
+183,"In the event of a system crash during a transaction  the current transaction will either completed or not completed. This will be handled by an already existing database","Management Information System","Security","Low","moderate",35.5
+184,"The system must effectively recover from a crash within five seconds.  For the system to effectively recover  it must be able to restart a sessions with the user within the time limit","Management Information System","Security","Low","Low",47.830769
+185,"The system must be able to run without interruption and able to handle thousands of concurrent requests","Management Information System","Performance","Low","moderate",16.7
+186,"It must be able to effectively recover from crashes and other problems as it is handling sensitive data. It should be designed in such a way that it can run on distributed systems","Management Information System","Performance","Medium","moderate",39.123077
+187,"When brought up in the interview the response from UVic web systems was Basically we want the system to handle errors gracefully like crashes","Management Information System","Performance","High","moderate",64.984615
+188,"The developed system will have to deal with large quantities of data and a large number of users accessing the data at once","Management Information System","Performance","Low","high",15.469231
+189,"The required system should be available on any system or workstation with a minimum requirement of 56k internet access","Management Information System","Constraints","Low","Low",19.023077
+190,"The new system should be able to work with the existing system used by the records system. This should allow the records office to receive transcript requests","Management Information System","Constraints","Very Low","moderate",40.469231
+191,"The user 0.25 will have a single access portal where the user can sign-in and have access to the entire system","Management Information System","Interfaces","High","catastrophic",76.315385
+192,"If a student signs in they are taken to the Student Main Page  If a Records employee signs in they are taken to a Records Main Page","Management Information System","Interfaces","Medium","moderate",49.623077
+193,"The Records main page would allow a records employee to process Official Transcript orders","Management Information System","Interfaces","Very Low","Low",39.238462
+194,"The Student main page would have links or tabs to the various other systems like Course Registration Course Time-tables Student Accounts Transcripts and Records","Management Information System","Interfaces","Low","high",31.930769
+195,"The Course Registration Page would show the courses the user is currently registered in and allow the user to register for next term courses if they are eligible","Management Information System","Interfaces","Low","moderate",31.815385
+196," It will not display past courses or grades","Management Information System","Interfaces","Very Low","Low",34.046154
+197,"When a user chooses the Register for Courses option they are taken to a page that has a list of courses offered that semester and an empty time-table","Management Information System","Interfaces","Low","moderate",39.507692
+198,"When user selects a course the course information like class size  current enrollment information (i.e seats Availibility)  Instructor is displayed in text form","Management Information System","Interfaces","Medium","high",31.276923
+199,"The course also appears in the time-table","Management Information System","Interfaces","Low","Low",29.315385
+200,"The Course Time-Tables page basically displays information (timings, instructor, class size, pre-requisites) of all the courses offered at Uvic","Management Information System","Interfaces","High","moderate",31.276923
+201,"The Student Account page contains information like a student’s address, tuition account information, Netlink account details, and PinChg. ,","Management Information System","Interfaces","Very Low","Low",23.084615
+202,"A student will be able to view and edit information which includes changing passwords","Management Information System","Interfaces","Medium","moderate",40.192308
+203,"The Transcripts and Records page will contain a students unofficial transcripts including and an ability to display all previously taken courses and the corresponding grades.","Management Information System","Interfaces","Low","high",18.084615
+204," It will also display a students standing i.e. G.P.A","Management Information System","Interfaces","Very Low","Low",24.623077
+205,"This page will also allow a student to order official transcripts","Management Information System","Interfaces","Low","moderate",21.815385
+206,"The system will have 3 terminals per store, with each one having a touch screen monitor, keyboard, credit card scanner and a cash register","Enterprise System","Interfaces","Low","insignificant",32.238462
+207,"The system will have a 45 minute battery backup at each terminal","Enterprise System","Interfaces","Medium","moderate",44.369231
+208,"The system will have a 2 hour battery backup at the server at headquarters","Enterprise System","Interfaces","Medium","moderate",38.215385
+209,"The system will interact with the banking network for the purpose of processing payments","Enterprise System","Interfaces","High","moderate",69.153846
+210,"The systems data needs will be supported by a connection to the headquarters server","Enterprise System","Interfaces","Medium","high",71.461538
+211,"The System will consist of Four (4) modules; Customer Service, Customer Portal Website, Fleet Management, Reports & Analytics","Enterprise System","Interfaces","Low","moderate",62.184615
+212,"The System will contain a Customer Service module that will allow Store and Corporate employees to provide information to customers","Enterprise System","Functional","High","moderate",51.169231
+213,"The System will contain a Customer Service module that will allow Store and Corporate employees access to the system for the purpose of Creating Rental Agreements","Enterprise System","Functional","Medium","high",53.476923
+214,"The System will contain a Customer Service module that will allow Store and Corporate employees to collect payments","Enterprise System","Functional","High","high",70.015385
+215,"The System will contain a Customer Portal Website that will provide information to the public and customers about the company and operations of the company","Enterprise System","Functional","Low","moderate",40.576923
+216,"This information will include Locations, Hours of operation, contact information, available rental vehicles, rental packages, price estimate, and any other information deemed necessary by the company.","Enterprise System","Functional","Medium","moderate",61.292308
+217,"The customer portal website will provide the customer with the closest location to their zip code and up to the next five (5) closest locations in addition to hours of operations  contact info and directions","Enterprise System","Functional","Low","high",37.515385
+218,"The System will generate an inventory capacity report for the desired time and location","Enterprise System","Functional","Medium","moderate",44.484615
+219,"The System will allow for new vehicles to be added to the inventory of the company","Enterprise System","Functional","Low","moderate",31.076923
+220,"The Fleet management module will allow the system to track vehicle maintenance. Maintenance will be tracked through mileage and or time as decided by the company","Enterprise System","Functional","Medium","moderate",29.869231
+221,"The System will contain a Report and Analytics Module that will serve the purpose of generating reports on the operations of the company","Enterprise System","Functional","Low","high",46.576923
+222,"The System will contain a Report and Analytics Module that will be capable of generating reports for items such as sales, maintenance, vehicle history, operations, rentals, and insurance","Enterprise System","Functional","Medium","moderate",74.323077
+223,"The System will contain a Report and Analytics Module that will be capable of generating reports for a desired time and location","Enterprise System","Functional","Medium","moderate",42.946154
+224,"The system will batch the daily operations to headquarters at the end of each business day","Enterprise System","Functional","Low","high",56.461538
+225,"The system will generate a backup of all data weekly for the purpose of data loss prevention at the headquarters","Enterprise System","Functional","Medium","Low",25.038462
+226,"The system will allow the customer to input the desired date location and package options to determine vehicle availability","Enterprise System","Functional","Very Low","moderate",19.461538
+227,"The system will display only vehicles that are currently available to rent to the customer during the rental process","Enterprise System","Functional","Low","moderate",32.038462
+228,"The system will create a customer account if the customer is not in the system","Enterprise System","Functional","Low","Low",30.153846
+229,"The customer account will require name, address, date of birth, driver’s License, and credit card number","Enterprise System","Functional","Low","moderate",34.930769
+230,"The system will require a credit card be on file but will allow customer to use different forms of payment at time of rental","Enterprise System","Functional","Negligible","catastrophic",15.269231
+231,"The system will provide a report of the vehicles that are scheduled to be rented out and returned for the specified day","Enterprise System","Functional","Negligible","high",16.446154
+232,"The system will allow for a block reservation of more than one (1) car at a time","Enterprise System","Functional","Very Low","Low",20.615385
+233,"at time of pickup the system will allow the employee to bring up the specified reservation and to print out a rental agreement","Enterprise System","Functional","Low","moderate",37.3
+234,"The system will require the employee to verify the information on the Rental Agreement and to then input into the system a notice that the agreement has been gone over. ","Enterprise System","Functional","Low","Low",24.1
+235,"This will ensure that the employee has in fact gone over the agreement and everything is in place.","Enterprise System","Functional","Low","Low",31.984615
+236,"The system will ask if the employee has obtained the customer Signature on the rental agreement. Customer signature is required on the rental agreement by company policy.","Enterprise System","Functional","Low","Low",25.523077
+237,"The system will allow for preliminary payment to be collected at time of pickup if company policies states that payment is to be collected at time of pickup.","Enterprise System","Functional","Negligible","moderate",10.884615
+238,"The customer will liable for a no show charge if they fail to pick up the vehicle at the specified time. ","Enterprise System","Functional","Negligible","catastrophic",13.607692
+239,"The system will require that the charge be process before the reservation can be closed out in the case of a no show","Enterprise System","Functional","Negligible","moderate",11.546154
+240,"The customer will have twenty four (24) hours before pickup time to call and cancel the reservation before the system requires the  no show charge","Enterprise System","Functional","Very Low","insignificant",25.923077
+241,"At time of return of rental vehicle the system will allow the employee to print out a Vehicle inspection form. This form is to be filled out at the vehicle and then input back into the system.","Enterprise System","Functional","Very Low","moderate",30.307692
+242,"The vehicle inspection form will require information including model, license number, vin number, damage to the vehicle, level of fuel in the tank, mileage, and a section for other issues.","Enterprise System","Functional","Very Low","Low",16.192308
+243,"The system will allow for a vehicle to be returned to a different location than the original rental location for the charge of a fee to be determined by the company","Enterprise System","Functional","Very Low","Low",17.269231
+244,"The system will identify and additional charges that need to be charged for any damage or issue to the rental vehicle","Enterprise System","Functional","Very Low","insignificant",22.215385
+245,"For company accounts the system will allow for the invoice (bill) to be sent to the company","Enterprise System","Functional","Low","moderate",29.461538
+246,"Company billing will be required to be set up in advance with the company to prevent fraud","Enterprise System","Functional","Very Low","Low",22.269231
+247,"After the vehicle inspection is done then the system will print off a final invoice for the costumer to sign","Enterprise System","Functional","Very Low","insignificant",25.423077
+248,"This invoice will contain the total amount charged by the rental company including primary rental and additional charges. Physical copy will be saved as proof of transaction.","Enterprise System","Functional","Very Low","moderate",31.061538
+249,"The system will provide employees with a login","Enterprise System","Functional","Very Low","high",17.276923
+250,"The system will provide employees with a logout","Enterprise System","Functional","Very Low","moderate",22.576923
+251,"The system will provide employees with the option to reset their login password","Enterprise System","Functional","Very Low","Low",32.5
+252,"The system will provide employees with the option to change their login password","Enterprise System","Functional","Very Low","moderate",31.153846
+253,"The system will allow employees with quick an efficient access to customer information.","Enterprise System","Functional","Negligible","Low",15.384615
+254,"The system will provide employees with a screen view of all customer pickups for a specified day","Enterprise System","Functional","Very Low","insignificant",36.038462
+255,"The system will provide employees with a screen view of an existing reservation of a customer","Enterprise System","Functional","Very Low","moderate",27.946154
+256,"The system will provide customers to login on the web portal and view existing reservation in the system","Enterprise System","Functional","Very Low","Low",22.346154
+257,"The system will allow employees to check vehicle availability from inventory for customers","Enterprise System","Functional","Very Low","moderate",19.523077
+258,"The system will allow employees to get specific vehicle information for customers","Enterprise System","Functional","Low","insignificant",22.384615
+259,"The local system should be capable of running, at minimum, 1000 processes per minute (PPM)","Enterprise System","Performance","Low","moderate",25.792308
+260,"The Headquarter (HQ) system should be able to process and allocate information to designated terminal within a 10 second refresh rate","Enterprise System","Performance","Low","catastrophic",33.530769
+261,"The system response time should be no longer than 1.0 seconds in order to keep up with the actions given by the User","Enterprise System","Performance","Low","high",29.5
+262,"As the company begins to acquire more customers popularity, the system must be able to scale in speed, size, and versatility in order to accommodate the rising needs of the customer basis.","Enterprise System","Performance","Very Low","Low",20.384615
+263,"The system will need to function on major internet operating software including Internet explorer, Firefox, Chrome, Safari, Opera, and Android","Enterprise System","Constraints","Low","Low",33.584615
+264,"The system will be constrained operating software of the host computer which is windows","Enterprise System","Constraints","Low","Low",32.730769
+265,"The user should have a valid user id and password","Safety Critical System","Functional","Low","insignificant",33.615385
+266,"Web site contains login window for each user","Safety Critical System","Functional","Very Low","moderate",23.423077
+267,"User should provide a valid user id and password to access the web site","Safety Critical System","Functional","Very Low","Low",28.307692
+268,"The user (pedestrians,vehicle owners,traffic police)should provide a valid information.","Safety Critical System","Functional","Very Low","moderate",21.384615
+269,"Web site contains Registration   window for each users","Safety Critical System","Functional","Very Low","moderate",15.846154
+270,"User should provide a valid details to create account in the web site","Safety Critical System","Functional","Very Low","Low",17.115385
+271,"The user (vehicle owners pedestrains) should have to provide valid information to traffic police through admin","Safety Critical System","Functional","Very Low","Low",15.538462
+272,"Web site contains Compliant issued dialog box for every user","Safety Critical System","Functional","Very Low","high",24.930769
+273,"validation form for every user","Safety Critical System","Functional","Very Low","moderate",24.930769
+274,"The user (pedstrains vehicle owners)can give compliant any time to traffic police","Safety Critical System","Functional","Very Low","Low",27.038462
+275,"Web site contains Compliant issued dialog box for every user","Safety Critical System","Functional","Very Low","high",30.507692
+276,"Admin can manage all users and maintain their data securely He can update the details and day to day updating can be done by admin","Safety Critical System","Functional","Very Low","moderate",34.776923
+277,"System can give the suggestions to the users during their discussion in discussion forum. He /She will give the traffic details. For participating in discussion forum he/she has to be registered.","Safety Critical System","Functional","Very Low","moderate",23.238462
+278,"Smart Traffic Management plays a important role in maintaining data of road Traffic of a region which is helpful to users.","Safety Critical System","Functional","Very Low","Low",23.230769
+279,"User can ask any questions with the system and server during their chat","Safety Critical System","Functional","Very Low","Low",27.023077
+280,"With the information provided by administrator user can directly contact with system or he can contact during their chat.","Safety Critical System","Functional","Very Low","moderate",33.961538
+281,"Smart Traffic Management System can help by creating awareness","Safety Critical System","Functional","Very Low","moderate",20.330769
+282,"User can enter into his account only by login","Safety Critical System","Functional","Very Low","moderate",23.346154
+283,"User can exit from his account","Safety Critical System","Functional","Very Low","Low",28.523077
+284,"Administrator can maintain all backup data","Safety Critical System","Functional","Low","high",32.692308
+285,"System can participate in chat with user and SERVER","Safety Critical System","Functional","Negligible","Low",8.423077
+286,"Admin has to provide the Traffic information to the user","Safety Critical System","Functional","Very Low","moderate",29.576923
+287,"System can respond to the queries asked by user","Safety Critical System","Functional","Negligible","moderate",15.561538
+288,"Day to day updating in improvements of operations can be provided by admin and they can be send to registered users every day","Safety Critical System","Functional","Negligible","high",19.2
+289,"System can view the queries which are asked by user","Safety Critical System","Functional","Very Low","Low",26.730769
+290,"User can view the response to their queries which are sent by system","Safety Critical System","Functional","Negligible","Low",20.769231
+291,"User can view the updating provided by admin","Safety Critical System","Functional","Very Low","moderate",36.484615
+292,"System can withstand even though many no. of customers request the desired service. Access is given to any users","Safety Critical System","Performance","Very Low","moderate",26.946154
+293,"By incorporating a robust and proven DB2 UDB into the system reliable 0.6 and integrity of data is ensured","Safety Critical System","Safety","Very Low","high",28.076923
+294,"There must be a power backup for server system","Safety Critical System","Safety","Very Low","moderate",27.192308
+295,"Every day the data should be backup even when the operation of a user is not successful","Safety Critical System","Safety","Very Low","moderate",23.930769
+296,"Sensitive data is protected from unwanted access by users appropriate technology and implementing strict user-access criteria","Safety Critical System","Security","Very Low","Low",19.130769
+297,"Facility of unique user number and Password in such a way that unauthorized user cannot log in","Safety Critical System","Security","Very Low","Low",15.861538
+298,"Operational rights for each user/terminal can be defined","Safety Critical System","Security","Very Low","high",20.207692
+299,"Operational rights for each user/terminal can be defined","Safety Critical System","Security","Very Low","Low",25.284615

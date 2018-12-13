@@ -1,0 +1,11 @@
+Requirement,Ranking
+The system shall enable user to navigate between the search results.,1
+The system shall provide shopping cart during online purchase.,1
+The system shall display the online help upon request.,1
+The system shall allow user to enter the customer and product information for the support.,1
+The system shall display the shipping charges.,1
+The system shall display detailed invoice for current order once it is confirmed.,4
+The system shall display all the products that can be configured.,4
+The system shall display the reviews ratings of each product  when it is selected.,4
+The system shall display only 10 matching result on the current screen.,4
+The system shall allow user to add/remove products in the shopping cart.,9
